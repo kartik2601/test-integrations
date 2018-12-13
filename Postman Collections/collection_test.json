@@ -1,0 +1,37 @@
+{
+  "info": {
+    "_postman_id": "17b6ce4e-59fa-48d4-897b-dec252f1af27",
+    "name": "collection test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "539f1e51-257f-46e4-a79a-b35bd842d603",
+      "name": "www.google.com?11=22",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "www.google.com?11=22",
+          "host": [
+            "www",
+            "google",
+            "com"
+          ],
+          "query": [
+            {
+              "key": "11",
+              "value": "22",
+              "type": "text"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
